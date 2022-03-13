@@ -1,0 +1,60 @@
+#container{
+    display: block;
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .imgBox{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .googleLogo{
+    display: block;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .mainForm{
+    display: block;
+    width: calc(100% - 4px);
+    height: auto;
+    background-color: #EEEEEE;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .mainText{
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .mainInput{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 317px;
+  }
+  
+  .footerTable{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .copyrightText{
+    font-size: 12px;
+  }
+  
+  table a{
+    font-size: 14px;
+  }
+  
+  .SubmitBtn{
+    margin-right: 10px;
+  }
