@@ -1,0 +1,10 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.line-clamp {
+    -webkit-line-clamp: 5;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
